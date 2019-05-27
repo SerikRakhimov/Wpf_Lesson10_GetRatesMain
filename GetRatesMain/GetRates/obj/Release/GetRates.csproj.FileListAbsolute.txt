@@ -1,0 +1,15 @@
+C:\Users\РахимовС\source\repos\GetRates\GetRates\bin\Release\GetRates.exe.config
+C:\Users\РахимовС\source\repos\GetRates\GetRates\bin\Release\GetRates.exe
+C:\Users\РахимовС\source\repos\GetRates\GetRates\bin\Release\GetRates.pdb
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\MainWindow.g.cs
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\App.g.cs
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates_MarkupCompile.cache
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates_MarkupCompile.lref
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\MainWindow.baml
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates.g.resources
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates.exe
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Release\GetRates.pdb

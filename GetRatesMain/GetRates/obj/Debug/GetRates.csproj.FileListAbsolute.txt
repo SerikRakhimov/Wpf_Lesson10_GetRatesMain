@@ -1,0 +1,75 @@
+C:\Users\РахимовС\source\repos\GetRates\GetRates\bin\Debug\GetRates.exe.config
+C:\Users\РахимовС\source\repos\GetRates\GetRates\bin\Debug\GetRates.exe
+C:\Users\РахимовС\source\repos\GetRates\GetRates\bin\Debug\GetRates.pdb
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\MainWindow.g.cs
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\App.g.cs
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates_MarkupCompile.cache
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates_MarkupCompile.lref
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\MainWindow.baml
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates.g.resources
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates.exe
+C:\Users\РахимовС\source\repos\GetRates\GetRates\obj\Debug\GetRates.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\bin\Debug\GetRates.exe.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\bin\Debug\GetRates.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\bin\Debug\GetRates.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\MainWindow.g.cs
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\App.g.cs
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates_MarkupCompile.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates_MarkupCompile.lref
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\MainWindow.baml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates.g.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates.Properties.Resources.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates.csproj.GenerateResource.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRates\GetRates\obj\Debug\GetRates.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\bin\Debug\GetRates.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\bin\Debug\GetRates.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\bin\Debug\GetRates.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\MainWindow.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\App.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates_MarkupCompile.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates_MarkupCompile.lref
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\MainWindow.baml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates.g.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\GetRatesTemp\GetRates\obj\Debug\GetRates.csprojResolveAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\bin\Debug\GetRates.exe.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\bin\Debug\GetRates.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\bin\Debug\GetRates.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\MainWindow.g.cs
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\App.g.cs
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates_MarkupCompile.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates_MarkupCompile.lref
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\MainWindow.baml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates.g.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates.Properties.Resources.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates.csproj.GenerateResource.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesTemp\GetRatesTemp\GetRates\obj\Debug\GetRates.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\bin\Debug\GetRates.exe.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\bin\Debug\GetRates.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\bin\Debug\GetRates.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\MainWindow.g.cs
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\App.g.cs
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates_MarkupCompile.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates_MarkupCompile.lref
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\MainWindow.baml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates.g.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates.Properties.Resources.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates.csproj.GenerateResource.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\GetRatesMain\GetRatesMain\GetRates\obj\Debug\GetRates.pdb

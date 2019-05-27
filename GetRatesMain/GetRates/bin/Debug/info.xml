@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <generator>Genetator_1</generator>
+  <title>Title_1</title>
+  <date>Date_1</date>
+  <item>
+    <fullname>fullname_111</fullname>
+    <title>title_111</title>
+    <change>change_111</change>
+  </item>
+  <item>
+    <fullname>fullname_222</fullname>
+    <title>title_222</title>
+    <change>change_222</change>
+  </item>
+  <item>
+    <fullname>fullname_331</fullname>
+    <title>title_332</title>
+    <change>change_333</change>
+  </item>
+</rates>
